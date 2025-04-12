@@ -18,5 +18,6 @@ public class User extends BaseModel {
 
     @Enumerated(EnumType.ORDINAL)
     private UserType userType;
+
 }
 
